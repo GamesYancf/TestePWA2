@@ -1,0 +1,25 @@
+{
+    "name": "DevCurse",
+    "short_name": "DevCurse",
+    "description": "Sistema para sair da maldição de ser um desenvolvedor",
+    "start_url": "./",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1976d2",
+    "orientation": "portrait",
+    "lang": "pt-BR",
+    "dir": "ltr",
+    "icons": [
+    {
+        "src": "icons/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+    ]
+}
